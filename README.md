@@ -1,5 +1,5 @@
 # user-management-system
 
-next.js
-spring boot 
-tailwind css
+# next.js
+# spring boot 
+# tailwind css
